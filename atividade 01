@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="#77b1a9">
+   <header>
+
+   </header>
+    <main>
+     <h1>meu protfolio</h1>
+     <h3>Meu projeto</h3>
+     <p>eu naci loga ali e fui pesccar com papai, nao sei onde foi parar com a forca da vovó</p>
+     <a href="">forca da vovó</a>
+    
+
+     <section>
+      <div>
+        <img src="./img/SKU Chocolate meio amargo .webp" alt="">
+      </div>
+     </section> 
+
+    </main>
+    
+    <footer>
+
+    </footer>
+</body>
+</html>
